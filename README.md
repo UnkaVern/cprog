@@ -1,2 +1,0 @@
-# cprog
-exorcysim
