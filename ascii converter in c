@@ -1,0 +1,32 @@
+#include <stdio.h>
+
+ _calc();
+int i;
+char ch;
+start;
+
+main()
+{
+
+    (void)
+    _calc();
+}
+
+
+ int _calc()
+{
+
+int i=0;
+char ch;
+
+printf ("enter an ASCII character:");
+scanf ("%c",&ch );
+i=ch;
+
+printf("The ASCII code of %c is %d\n" ,ch,i);
+
+//system("pause");//
+
+return main();
+
+}
